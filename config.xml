@@ -9,7 +9,13 @@
       <gap:platform name="android" />
       <gap:platform name="winphone" />
       <preference name="orientation" value="portrait" />      
-      <preference name="fullscreen" value="false" />
+      <preference name="fullscreen" value="false" />  
+      <preference name="webviewbounce" value="false" />  
+      <preference name="DisallowOverscroll" value="true" />  
+      <preference name="disallowOverscroll" value="true" /> 
+      <preference name="prerendered-icon" value="false" /> 
+      <preference name="android-minSdkVersion" value="14" /> 
+      <preference name="android-installLocation" value="auto" /> 
    </widget>   
       
       
