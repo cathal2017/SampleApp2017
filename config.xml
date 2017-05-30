@@ -16,6 +16,9 @@
       <preference name="prerendered-icon" value="false" /> 
       <preference name="android-minSdkVersion" value="14" /> 
       <preference name="android-installLocation" value="auto" /> 
+      
+      <gap:splash src="res/screen/ios/screen-iphone-portrait.png" gap:platform="ios" width="320" height="400" />
+      <gap:splash src="res/screen/ios/screen-iphone-portrait.png" gap:landscape="ios" width="320" height="400" />
    </widget>   
       
       
