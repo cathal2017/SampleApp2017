@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+      xmlns:gap = "http://phonegap.com/ns/1.0"      
+      versionCode - "1"
+      version = "1.0">      
+      <name>SampleApp</name>      
+      <description> PhoneGap Sample App description</description>
+      <author href="conference.eurostarsoftwaretesting.com" email="cathal@eurostarconferences.com">Cathal</author>
+      <gap:platform name="android" />
+      <gap:platform name="winphone" />
+      <preference name="orientation" value="portrait" />      
+      <preference name="fullscreen" value="false" />
+   </widget>   
+      
+      
